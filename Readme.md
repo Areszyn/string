@@ -2,9 +2,9 @@
   <b>Pyrogram Session String Generator Bot</b>
 </h1>
     
-Contact: [Telegram](https://t.me/devggn)
+Contact: [Telegram](https://t.me/waspros)
 
-A Pyrogram session string generator to easily create session strings for your user accounts made with 💕 by [Team SPY](https://t.me/devggn)
+A Pyrogram session string generator to easily create session strings for your user accounts made with 💕 by [Waspros](https://t.me/waspros)
 
 ## Features
 - **Easy Session Generation**: Quickly generate Pyrogram session strings.
@@ -22,7 +22,7 @@ A Pyrogram session string generator to easily create session strings for your us
 
 1. Click the button below to deploy your own instance on Heroku.
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devgaganin/Pyrogram-Session-Generator)
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/susantabhandari/string)
 
 2. Set the required environment variables:
     - `API_ID`
@@ -71,17 +71,17 @@ If you find this project useful, consider supporting its development and mainten
 ### International Donation:
 
 - **Bitcoin (BTC):** ![Bitcoin Icon](https://img.shields.io/badge/Bitcoin-13GnzYQBTkR88U2ScHwvWKHLhoPFTw2gsd-yellow)
-  - **BTC Address:** 13GnzYQBTkR88U2ScHwvWKHLhoPFTw2gsd
+  - **BTC Address:** bc1qsxfju5sm2smx7d49drs0e5fen7zqvgq5sds4ay
   
 - **USDT (TRON TRC20):** ![USDT Icon](https://img.shields.io/badge/USDT-TQ7CFhQVsv7XwUdaZmp5ixz41LbppB4TkM-green)
-  - **USDT Address:** TQ7CFhQVsv7XwUdaZmp5ixz41LbppB4TkM
+  - **USDT Address:** TLMFVtzFT6MABPV986c9qeBuctbm3JtrhE
   
 - **Ethereum (ETH ERC-20):** ![Ethereum Icon](https://img.shields.io/badge/Ethereum-0x5d4c4f0d05ed05e0673b5e0c2275ee1b204e0fdc-blue)
-  - **ETH Address:** 0x5d4c4f0d05ed05e0673b5e0c2275ee1b204e0fdc
+  - **ETH Address:** 0x5Fab415B2e18488414839099Cc917d4c795f60cD
 
 ### Donations from India
 
-Send an Amazon gift to our contact bot [@ttonehelpbot](https://t.me/ttonehelpbot) on Telegram.
+Send an Amazon gift to our contact bot [Owner](https://t.me/waspros) on Telegram.
 
 Thank you for your generosity and support!
 
